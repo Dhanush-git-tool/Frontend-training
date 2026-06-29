@@ -1,0 +1,10 @@
+.feature{
+    width: 90%;
+    height: 250px;
+    background-color: black;
+    margin: auto;
+    background-image: url(images/featured_upscaled.png);
+   background-size: cover;
+   border-radius: 15px;
+   box-shadow: 2px 2px 2px gray;
+}
